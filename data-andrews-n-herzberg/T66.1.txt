@@ -1,0 +1,73 @@
+66   1     1    1 Farm Bureau
+66   1     2    2 Farm Equip Co.
+66   1     3    3 Clothing Mfg Co.
+66   1     4    4 Farm Supply Co.
+66   1     5    5 Mechanical Co.
+66   1     6    6 Electric Equip Co.
+66   1     7    7 Metal Products Co.
+66   1     8    8 Music Equip Co.
+66   1     9    9 Chamber of Commerce
+66   1    10    10 Bankers' Association
+66   1    11    11 1st Towertown Bank
+66   1    12    12 Towertown Savings and Loan
+66   1    13    13 Bank of Towertown
+66   1    14    14 2nd Towertown Bank
+66   1    15    15 Brinkman Law Firm
+66   1    16    16 Cater Law Firm
+66   1    17    17 Lenhart Law Firm
+66   1    18    18 County Bar Association
+66   1    19    19 Towertown Board of Realtors
+66   1    20    20 Towertown Small Business Association
+66   1    21    21 Municipal Employees Union - 1
+66   1    22    22 Municipal Employees Union - 2
+66   1    23    23 Teacher's Union
+66   1    24    24 Central Labor Union
+66   1    25    25 City Council
+66   1    26    26 City Manager's Office
+66   1    27    27 County Board
+66   1    28    28 Fire Department
+66   1    29    29 Human Relations Commission
+66   1    30    30 Mayor's Office
+66   1    31    31 Police Department
+66   1    32    32 Sanitary District
+66   1    33    33 Streets and Sanitation
+66   1    34    34 Park District
+66   1    35    35 Zoning Board
+66   1    36    36 Democratic Committee
+66   1    37    37 Republican Committee
+66   1    38    38 League of Women Voters
+66   1    39    39 The Towertown Newspaper
+66   1    40    40 WTWR Radio Station
+66   1    41    41 Towertown Public Hospital Board
+66   1    42    42 Towertown Public Hospital
+66   1    43    43 County Medical Society
+66   1    44    44 County Board of Mental Health
+66   1    45    45 County Board of Health
+66   1    46    46 County Health Service Center (private)
+66   1    47    47 State Highway Authority
+66   1    48    48 Kiwanis Club - 1
+66   1    49    49 Kiwanis Club - 2
+66   1    50    50 Rotary Club
+66   1    51    51 Lions Club
+66   1    52    52 United Fund
+66   1    53    53 School Board
+66   1    54    54 Towertown High School
+66   1    55    55 Towertown Parent - Teacher Association
+66   1    56    56 Towertown Community College
+66   1    57    57 State University
+66   1    58    58 Association of Churches - 1
+66   1    59    59 Association of Churches - 2
+66   1    60    60 St Hilary's Catholic Church
+66   1    61    61 1st Baptist Church
+66   1    62    62 1st Church of the Light
+66   1    63    63 1st Congregational Church
+66   1    64    64 1st Methodist Church
+66   1    65    65 Unity Lutheran
+66   1    66    66 University Methodist Church
+66   1    67    67 State Department of Public Aid
+66   1    68    68 County Housing Authority
+66   1    69    69 Family Services
+66   1    70    70 State Employment Services
+66   1    71    71 YMCA
+66   1    72    72 Mental Health Center
+66   1    73    73 Towertown Youth Services Bureau
